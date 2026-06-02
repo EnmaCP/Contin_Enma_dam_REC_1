@@ -1,0 +1,4 @@
+Identificador database: enma-contin-dam2
+Database: postgres
+Usuario: postgres
+Contraseña: 123456789
